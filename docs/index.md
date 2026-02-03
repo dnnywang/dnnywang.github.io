@@ -10,7 +10,9 @@
 
 ### This is a test
 
-![Test photo, does this work?](assets/IMG_9535.JPG)
+<p align="center">
+  <img src="assets/IMG_9535.JPG" alt="Description" width="400">
+</p>
 
 !!! tip "Pro Tip"
     This is much faster than writing HTML!
