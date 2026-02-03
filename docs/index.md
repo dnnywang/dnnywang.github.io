@@ -10,6 +10,8 @@
 
 ### This is a test
 
+![Test photo, does this work?](assets/IMG_9535.JPG)
+
 !!! tip "Pro Tip"
     This is much faster than writing HTML!
 
