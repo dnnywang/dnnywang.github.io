@@ -13,6 +13,12 @@
 !!! tip "Pro Tip"
     This is much faster than writing HTML!
 
+!!! note "Pro Note"
+    This is much faster than writing HTML!
+
+!!! warning "Warning"
+    This is much faster than writing HTML!
+
 <div style="background-color: #ffb3b3; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">🚨</span>
   <div>
