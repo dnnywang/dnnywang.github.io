@@ -1,6 +1,19 @@
 # dnnywang.github.io
 
-# Step 5: Remove the tab of kapton tape on the PMW-3360 chip
+# Step 1: Prepare necessary tools
+<div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
+  <span style="font-size: 20px; margin-right: 10px;">💡</span>
+  <div>
+    A similar smallish Phillips head screwdriver could work
+  </div>
+</div>
+
+- A #1 Phillips head screwdriver
+- Soldering iron
+- Solder
+- Tweezers
+- Needle-nose pliers
+
 <div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
   <div>
