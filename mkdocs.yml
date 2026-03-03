@@ -4,7 +4,7 @@ site_url: https://dnnywang.github.io/
 theme:
   name: material
   features:
-    - navigation.toc.integrate
+    - toc.integrate
     - navigation.tracking
     
 markdown_extensions:
