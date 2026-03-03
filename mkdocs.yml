@@ -6,6 +6,7 @@ theme:
   features:
     - navigation.toc.integrate
     - navigation.tracking
+    
 markdown_extensions:
   - admonition
   - pymdownx.details
