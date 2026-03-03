@@ -20,7 +20,7 @@
 ### Step 2: Break off possible leftover tabs off the PCB
 
 <p align="center">
-  <img src="assets/2.png" alt="Description" width="400">
+  <img src="assets/2.png" alt="Description" width="800">
 </p>
 
 - There are up to six possible small tabs along the edge of the PCB as shown in the picture.
