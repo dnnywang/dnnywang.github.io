@@ -290,9 +290,9 @@ Insert the logo in the indent on the top of the frame.
   </div>
 </div>
 
-### Step 21: Spin the ball to break in the bearings
+### Step 19: Spin the ball to break in the bearings
 
-### Step 22: All done!
+### Step 20: All done!
 
 <div style="background-color: #cce5ff; color: #004085; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">ℹ️</span>
