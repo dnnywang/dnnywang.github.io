@@ -1,6 +1,6 @@
 ### Step 1: Prepare necessary tools
 
-<img src="assets/1.png" alt="Tools horizontally" style="float: left; margin-right: 20px; margin-bottom: 10px;" width="300">
+![Tools horizontally](assets/tools.png){ width="400" }
 
 - A #1 Phillips head screwdriver
 - Soldering iron
