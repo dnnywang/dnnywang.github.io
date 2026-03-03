@@ -43,6 +43,10 @@ Prepare the following components:
 - Printed circuit board
 - PMW-3360 chip
 
+<p align="center">
+  <img src="assets/3.png" alt="Description" width="600">
+</p>
+
 <div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
   <div>
@@ -51,6 +55,18 @@ Prepare the following components:
 </div>
 
 ### Step 4: Solder PMW-3360 sensor to printed circuit board
+
+<p align="center">
+  <img src="assets/4.png" alt="Description" width="600">
+</p>
+
+<p align="center">
+  <img src="assets/4b.png" alt="Description" width="600">
+</p>
+
+<p align="center">
+  <img src="assets/4c.png" alt="Description" width="600">
+</p>
 
 ### Step 5: Remove the tab of kapton tape on the PMW-3360 chip
 
@@ -63,6 +79,10 @@ Prepare the following components:
 
 There are two small tabs of orange tape covering the sensor's main holes. Remove them now.
 
+<p align="center">
+  <img src="assets/5.png" alt="Description" width="600">
+</p>
+
 <div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
   <div>
@@ -74,6 +94,10 @@ There are two small tabs of orange tape covering the sensor's main holes. Remove
 
 Orient the optic as shown in the image before insertion.
 
+<p align="center">
+  <img src="assets/6.png" alt="Description" width="600">
+</p>
+
 <div style="background-color: #ffb3b3; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">🚨</span>
   <div>
@@ -81,9 +105,17 @@ Orient the optic as shown in the image before insertion.
   </div>
 </div>
 
+<p align="center">
+  <img src="assets/6b.png" alt="Description" width="600">
+</p>
+
 ### Step 7: Place the PCB into the Base
 
 This should be straightforward, the PCB should fit exactly as shown.
+
+<p align="center">
+  <img src="assets/7.png" alt="Description" width="600">
+</p>
 
 ### Step 8: Place the Sensor Cap on the PCB
 
@@ -96,6 +128,10 @@ This should be straightforward, the PCB should fit exactly as shown.
 
 Place the sensor cap on the PCB as shown in the image.
 
+<p align="center">
+  <img src="assets/8.png" alt="Description" width="600">
+</p>
+
 <div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
   <div>
@@ -107,12 +143,20 @@ Place the sensor cap on the PCB as shown in the image.
 
 Place the top onto the base.
 
+<p align="center">
+  <img src="assets/9.png" alt="Description" width="600">
+</p>
+
 <div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
   <div>
     <strong>Tip:</strong> If necessary, adjust the position of the Sensor Cap as you're lowering the Top onto the Base. It should end up looking like the image.
   </div>
 </div>
+
+<p align="center">
+  <img src="assets/9b.png" alt="Description" width="600">
+</p>
 
 ### Step 10: Screw the Base into the Top
 
@@ -125,6 +169,10 @@ Place the top onto the base.
 
 Slowly drive the screws into the four holes in the top until you feel resistance.
 
+<p align="center">
+  <img src="assets/10.png" alt="Description" width="600">
+</p>
+
 <div style="background-color: #ffb3b3; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">🚨</span>
   <div>
@@ -132,17 +180,28 @@ Slowly drive the screws into the four holes in the top until you feel resistance
   </div>
 </div>
 
-### Step 11: Prepare 3 Roller Bearings
-
-### Step 12: Insert Roller Bearing and Roller Bearing Dowel into Bearing
+### Step 11: Insert Roller Bearing and Roller Bearing Dowel into Bearing
 
 - Use the bearing press jib to make 3 bearings
 - Insert the bearing into the orange cylinder part of the bearing press
+
+<p align="center">
+  <img src="assets/11.png" alt="Description" width="600">
+</p>
+
 - Insert dowel into black cylinder of the bearing press
 
-### Step 13: Press the Bearing Jig Together
+<p align="center">
+  <img src="assets/11b.png" alt="Description" width="600">
+</p>
 
-Press the bearing press jig together. 
+### Step 12: Press the Bearing Jig Together
+
+Press the bearing press jig together.
+
+<p align="center">
+  <img src="assets/11c.png" alt="Description" width="600">
+</p>
 
 <div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
@@ -151,22 +210,15 @@ Press the bearing press jig together.
   </div>
 </div>
 
-### Step 14: Remove roller bearing from bearing press jig and repeat
+### Step 13: Remove roller bearing from bearing press jig and repeat
 
 - Remove the the roller bearing from the press jig
 - Repeat 3 times to end with 3 roller bearings
 
-### Step 15: Insert roller bearings into the Top Piece
+### Step 14: Insert roller bearings into the Top Piece
 
 - Insert the roller bearings into the 3 holes in the top of the frame
 - Ensure the bearings are pressed all the way into the case
-
-<div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
-  <span style="font-size: 20px; margin-right: 10px;">💡</span>
-  <div>
-    <strong>Tip:</strong> If the bearings aren't seated all the way, there's a good chance that the ball will become badly scratched.
-  </div>
-</div>
 
 <div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
@@ -175,9 +227,18 @@ Press the bearing press jig together.
   </div>
 </div>
 
-### Step 16: Prepare the Friction Pads
+<p align="center">
+  <img src="assets/15.png" alt="Description" width="600">
+</p>
 
-### Step 17: Place Friction Pads on Base
+<div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
+  <span style="font-size: 20px; margin-right: 10px;">💡</span>
+  <div>
+    <strong>Tip:</strong> If the bearings aren't seated all the way, there's a good chance that the ball will become badly scratched.
+  </div>
+</div>
+
+### Step 15: Place Friction Pads on Base
 
 - Flip the adept frame upside down
 - Place the friction pads on each corner of the frame
@@ -189,16 +250,28 @@ Press the bearing press jig together.
   </div>
 </div>
 
-### Step 18: Insert the ball
+<p align="center">
+  <img src="assets/16 17.png" alt="Description" width="600">
+</p>
+
+### Step 16: Insert the ball
 
 - Insert the track ball into the hole in the middle of the adept frame
 - Apply minimal pressure, just enough to make sure that the trackball is clicked in place
 
-### Step 19: Peel and stick the logo to the Top
+<p align="center">
+  <img src="assets/18.png" alt="Description" width="600">
+</p>
+
+### Step 17: Peel and stick the logo to the Top
 
 Insert the logo in the indent on the top of the frame.
 
-### Step 20: Verify that the Ploopy Adept Trackball is working correctly
+<p align="center">
+  <img src="assets/19.png" alt="Description" width="600">
+</p>
+
+### Step 18: Verify that the Ploopy Adept Trackball is working correctly
 
 - Plug the adept trackball mouse into the computer
 - Move the ball around, it should move the cursor
