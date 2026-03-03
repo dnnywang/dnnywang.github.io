@@ -1,4 +1,6 @@
 site_name: My Docs
+site_url: https://dnnywang.github.io/
+
 theme:
   name: mkdocs
   bootswatch: flatly
