@@ -1,6 +1,7 @@
 site_name: My Docs
 theme:
-  name: material
+  name: mkdocs
+  bootswatch: darkly
 
 markdown_extensions:
   - admonition
