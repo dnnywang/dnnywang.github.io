@@ -1,7 +1,7 @@
 site_name: My Docs
 theme:
   name: mkdocs
-  bootswatch: darkly
+  bootswatch: cerulean
 
 markdown_extensions:
   - admonition
