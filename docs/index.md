@@ -1,6 +1,6 @@
 ### Step 1: Prepare necessary tools
 
-![Tools horizontally](assets/tools.png){ width="400" }
+![Tools horizontally](assets/1.png){ width="400" }
 
 - A #1 Phillips head screwdriver
 - Soldering iron
