@@ -1,7 +1,7 @@
 site_name: My Docs
 theme:
   name: mkdocs
-  bootswatch: materia
+  bootswatch: flatly
 
 markdown_extensions:
   - admonition
