@@ -27,7 +27,7 @@
 - Holding the PCB as pictured, gently break off any tabs.
 
 <p align="center">
-  <img src="assets/2b.png" alt="Description" width="400">
+  <img src="assets/2b.png" alt="Description" width="600">
 </p>
 
 <div style="background-color: #ffb3b3; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
