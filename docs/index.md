@@ -288,7 +288,9 @@ There are two small tabs of orange tape covering the sensor's main holes. Remove
 
 ### Step 18: All done!
 
-
+<p align="center">
+  <img src="assets/21.png" alt="Description" width="600">
+</p>
 
 ### Step 18: Verify that the Ploopy Adept Trackball is working correctly
 
