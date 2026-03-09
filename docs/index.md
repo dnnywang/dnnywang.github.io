@@ -1,4 +1,4 @@
-### Step 1: Prepare necessary tools
+## Step 1: Prepare necessary tools
 
 <p align="center">
   <img src="assets/1.png" alt="Description" width="400">
@@ -17,7 +17,7 @@
   </div>
 </div>
 
-### Step 2: Break off possible leftover tabs off the PCB
+## Step 2: Break off possible leftover tabs off the PCB
 
 <p align="center">
   <img src="assets/2.png" alt="Description" width="800">
@@ -37,7 +37,7 @@
   <img src="assets/2b.png" alt="Description" width="600">
 </p>
 
-### Step 3: Prepare parts for PCB soldering
+## Step 3: Prepare parts for PCB soldering
 
 Prepare the following components as pictured below:
 
@@ -55,7 +55,7 @@ Prepare the following components as pictured below:
   </div>
 </div>
 
-### Step 4: Solder PMW-3360 sensor to printed circuit board
+## Step 4: Solder PMW-3360 sensor to printed circuit board
 
 - Place the sensor onto the circuit board, ensuring the orientation is correct.
 
@@ -85,7 +85,7 @@ Prepare the following components as pictured below:
   <img src="assets/4c.png" alt="Description" width="600">
 </p>
 
-### Step 5: Remove the tab of kapton tape on the PMW-3360 chip
+## Step 5: Remove the tab of kapton tape on the PMW-3360 chip
 
 <div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
@@ -107,7 +107,7 @@ Prepare the following components as pictured below:
   </div>
 </div>
 
-### Step 6: Attach the PMW-3360 optic to the PMW-3360 chip
+## Step 6: Attach the PMW-3360 optic to the PMW-3360 chip
 
 - Orient the optic as shown in the image before insertion.
 
@@ -126,7 +126,7 @@ Prepare the following components as pictured below:
   <img src="assets/6b.png" alt="Description" width="600">
 </p>
 
-### Step 7: Place the PCB into the Base
+## Step 7: Place the PCB into the Base
 
 - This should be straightforward, the PCB should fit exactly as shown.
 
@@ -134,7 +134,7 @@ Prepare the following components as pictured below:
   <img src="assets/7.png" alt="Description" width="800">
 </p>
 
-### Step 8: Place the Sensor Cap on the PCB
+## Step 8: Place the Sensor Cap on the PCB
 
 - Place the sensor cap on the PCB as shown in the image.
 
@@ -156,7 +156,7 @@ Prepare the following components as pictured below:
   </div>
 </div>
 
-### Step 9: Place the Top Piece onto the Base Piece
+## Step 9: Place the Top Piece onto the Base Piece
 
 - Place the top onto the base.
 
@@ -175,7 +175,7 @@ Prepare the following components as pictured below:
   <img src="assets/9b.png" alt="Description" width="600">
 </p>
 
-### Step 10: Screw the Base into the Top
+## Step 10: Screw the Base into the Top
 
 <div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
@@ -197,7 +197,7 @@ Prepare the following components as pictured below:
   <img src="assets/10.png" alt="Description" width="800">
 </p>
 
-### Step 11: Insert Roller Bearing and Bearing Dowel into Bearing Press Jig
+## Step 11: Insert Roller Bearing and Bearing Dowel into Bearing Press Jig
 
 - Insert the bearing into the taller half of the bearing press jig.
 
@@ -211,7 +211,7 @@ Prepare the following components as pictured below:
   <img src="assets/11b.png" alt="Description" width="900">
 </p>
 
-### Step 12: Press the Bearing Jig Together
+## Step 12: Press the Bearing Jig Together
 
 - Press the bearing press jig together.
 
@@ -226,12 +226,12 @@ Prepare the following components as pictured below:
   </div>
 </div>
 
-### Step 13: Remove roller bearing from bearing press jig and repeat
+## Step 13: Remove roller bearing from bearing press jig and repeat
 
 - Remove the the roller bearing from the press jig.
 - Repeat 3 times to end with 3 roller bearings.
 
-### Step 14: Insert roller bearings into the Top Piece
+## Step 14: Insert roller bearings into the Top Piece
 
 - Insert the roller bearings into the 3 holes in the top of the frame.
 - Ensure the bearings are pressed all the way into the case.
@@ -254,7 +254,7 @@ Prepare the following components as pictured below:
   </div>
 </div>
 
-### Step 15: Place Friction Pads on Base
+## Step 15: Place Friction Pads on Base
 
 - Flip the adept frame upside down.
 - Place the friction pads on each corner of the frame.
@@ -270,7 +270,7 @@ Prepare the following components as pictured below:
   <img src="assets/16 17.png" alt="Description" width="600">
 </p>
 
-### Step 16: Insert the ball
+## Step 16: Insert the ball
 
 - Insert the track ball into the hole in the middle of the adept frame.
 
@@ -278,7 +278,7 @@ Prepare the following components as pictured below:
   <img src="assets/18.png" alt="Description" width="800">
 </p>
 
-### Step 17: Peel and stick the logo to the Top
+## Step 17: Peel and stick the logo to the Top
 
 - Insert the logo in the indent on the top of the frame.
 
@@ -286,7 +286,7 @@ Prepare the following components as pictured below:
   <img src="assets/19.png" alt="Description" width="800">
 </p>
 
-### Step 18: All done!
+## Step 18: All done!
 
 <p align="center">
   <img src="assets/21.png" alt="Description" width="800">
