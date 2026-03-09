@@ -24,7 +24,7 @@
 </p>
 
 - There are up to six possible small tabs along the edge of the PCB as shown in the picture.
-- Holding the PCB as pictured, gently break off any tabs.
+- Holding the PCB as pictured, gently break off any tabs using a pair of pliers.
 
 <div style="background-color: #ffb3b3; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">🚨</span>
@@ -57,6 +57,15 @@ Prepare the following components as pictured below:
 
 ### Step 4: Solder PMW-3360 sensor to printed circuit board
 
+- Place the sensor onto the circuit board, ensuring the orientation is correct.
+
+<div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
+  <span style="font-size: 20px; margin-right: 10px;">💡</span>
+  <div>
+    <strong>Tip:</strong> Use the cues presented in the following images to ensure the sensor is oriented correctly.
+  </div>
+</div>
+
 <p align="center">
   <img src="assets/4.png" alt="Description" width="600">
 </p>
@@ -64,6 +73,13 @@ Prepare the following components as pictured below:
 <p align="center">
   <img src="assets/4b.png" alt="Description" width="600">
 </p>
+
+<div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
+  <span style="font-size: 20px; margin-right: 10px;">💡</span>
+  <div>
+    <strong>Tip:</strong> The sensor must be flat down as far as it can possibly slide into the holes before soldering.
+  </div>
+</div>
 
 <p align="center">
   <img src="assets/4c.png" alt="Description" width="600">
