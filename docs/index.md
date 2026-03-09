@@ -292,25 +292,20 @@ Prepare the following components as pictured below:
   <img src="assets/21.png" alt="Description" width="800">
 </p>
 
-### Step 18: Verify that the Ploopy Adept Trackball is working correctly
+## Post Steps:
 
-- Plug the adept trackball mouse into the computer.
+### Spin the ball to break in the bearings
+- Spin the ball around for around 3 minutes to break them initially before any use
+- The bearings may take around a week to become fully broken-in/smooth
+
+### Verify the Ploopy Adept Trackball is working correctly
+- Plug the adept trackball mouse into the computer using a USB-C cable
 - Move the ball around, it should move the cursor
 
-<div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
-  <span style="font-size: 20px; margin-right: 10px;">💡</span>
+<div style="background-color: #cce5ff; color: #004085; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
+  <span style="font-size: 20px; margin-right: 10px;">ℹ️</span>
   <div>
-    <strong>Tip:</strong> The bearings are a bit scratchy when they're new. To prevent them from jumping around during initial use, spin the ball with some Latin dance vigour for about three minutes. That should be enough to break them in.
+    <strong>Info:</strong> If the trackball is not working, consult our technical flow chart in the FAQ page for futher troubleshooting.
   </div>
 </div>
-
-<div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
-  <span style="font-size: 20px; margin-right: 10px;">💡</span>
-  <div>
-    <strong>Tip:</strong> The bearings will take about a week to become fully broken-in.
-  </div>
-</div>
-
-### Step 19: Spin the ball to break in the bearings
-
 
