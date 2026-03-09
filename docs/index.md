@@ -94,10 +94,10 @@ Prepare the following components as pictured below:
   </div>
 </div>
 
-There are two small tabs of orange tape covering the sensor's main holes. Remove them now.
+- There are two small tabs of orange tape covering the sensor's main holes. Remove them now.
 
 <p align="center">
-  <img src="assets/5.png" alt="Description" width="600">
+  <img src="assets/5.png" alt="Description" width="800">
 </p>
 
 <div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
@@ -131,7 +131,7 @@ There are two small tabs of orange tape covering the sensor's main holes. Remove
 - This should be straightforward, the PCB should fit exactly as shown.
 
 <p align="center">
-  <img src="assets/7.png" alt="Description" width="600">
+  <img src="assets/7.png" alt="Description" width="800">
 </p>
 
 ### Step 8: Place the Sensor Cap on the PCB
@@ -146,7 +146,7 @@ There are two small tabs of orange tape covering the sensor's main holes. Remove
 </div>
 
 <p align="center">
-  <img src="assets/8.png" alt="Description" width="600">
+  <img src="assets/8.png" alt="Description" width="800">
 </p>
 
 <div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
@@ -161,7 +161,7 @@ There are two small tabs of orange tape covering the sensor's main holes. Remove
 - Place the top onto the base.
 
 <p align="center">
-  <img src="assets/9.png" alt="Description" width="600">
+  <img src="assets/9.png" alt="Description" width="800">
 </p>
 
 <div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
@@ -194,7 +194,7 @@ There are two small tabs of orange tape covering the sensor's main holes. Remove
 </div>
 
 <p align="center">
-  <img src="assets/10.png" alt="Description" width="600">
+  <img src="assets/10.png" alt="Description" width="800">
 </p>
 
 ### Step 11: Insert Roller Bearing and Bearing Dowel into Bearing Press Jig
@@ -202,13 +202,13 @@ There are two small tabs of orange tape covering the sensor's main holes. Remove
 - Insert the bearing into the taller half of the bearing press jig.
 
 <p align="center">
-  <img src="assets/11.png" alt="Description" width="600">
+  <img src="assets/11.png" alt="Description" width="900">
 </p>
 
 - Insert dowel into the shorter half of the bearing press jig.
 
 <p align="center">
-  <img src="assets/11b.png" alt="Description" width="600">
+  <img src="assets/11b.png" alt="Description" width="900">
 </p>
 
 ### Step 12: Press the Bearing Jig Together
@@ -216,7 +216,7 @@ There are two small tabs of orange tape covering the sensor's main holes. Remove
 - Press the bearing press jig together.
 
 <p align="center">
-  <img src="assets/11c.png" alt="Description" width="600">
+  <img src="assets/11c.png" alt="Description" width="900">
 </p>
 
 <div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
@@ -275,7 +275,7 @@ There are two small tabs of orange tape covering the sensor's main holes. Remove
 - Insert the track ball into the hole in the middle of the adept frame.
 
 <p align="center">
-  <img src="assets/18.png" alt="Description" width="600">
+  <img src="assets/18.png" alt="Description" width="800">
 </p>
 
 ### Step 17: Peel and stick the logo to the Top
@@ -283,13 +283,13 @@ There are two small tabs of orange tape covering the sensor's main holes. Remove
 - Insert the logo in the indent on the top of the frame.
 
 <p align="center">
-  <img src="assets/19.png" alt="Description" width="600">
+  <img src="assets/19.png" alt="Description" width="800">
 </p>
 
 ### Step 18: All done!
 
 <p align="center">
-  <img src="assets/21.png" alt="Description" width="600">
+  <img src="assets/21.png" alt="Description" width="800">
 </p>
 
 ### Step 18: Verify that the Ploopy Adept Trackball is working correctly
