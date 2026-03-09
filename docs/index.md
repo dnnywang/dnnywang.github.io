@@ -109,7 +109,7 @@ There are two small tabs of orange tape covering the sensor's main holes. Remove
 
 ### Step 6: Attach the PMW-3360 optic to the PMW-3360 chip
 
-Orient the optic as shown in the image before insertion.
+- Orient the optic as shown in the image before insertion.
 
 <p align="center">
   <img src="assets/6.png" alt="Description" width="600">
@@ -128,7 +128,7 @@ Orient the optic as shown in the image before insertion.
 
 ### Step 7: Place the PCB into the Base
 
-This should be straightforward, the PCB should fit exactly as shown.
+- This should be straightforward, the PCB should fit exactly as shown.
 
 <p align="center">
   <img src="assets/7.png" alt="Description" width="600">
@@ -136,14 +136,14 @@ This should be straightforward, the PCB should fit exactly as shown.
 
 ### Step 8: Place the Sensor Cap on the PCB
 
+- Place the sensor cap on the PCB as shown in the image.
+
 <div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
   <div>
     <strong>Tip:</strong> The Sensor Cap doesn't snap onto the PMW-3360 optic. It "floats" on top of the optic for now. Once fully assembled, the Sensor Cap will be securely held down.
   </div>
 </div>
-
-Place the sensor cap on the PCB as shown in the image.
 
 <p align="center">
   <img src="assets/8.png" alt="Description" width="600">
@@ -158,7 +158,7 @@ Place the sensor cap on the PCB as shown in the image.
 
 ### Step 9: Place the Top Piece onto the Base Piece
 
-Place the top onto the base.
+- Place the top onto the base.
 
 <p align="center">
   <img src="assets/9.png" alt="Description" width="600">
@@ -180,15 +180,11 @@ Place the top onto the base.
 <div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
   <div>
-    <strong>Tip:</strong> You are safe to flip the frame upside down for this step.
+    <strong>Tip:</strong> You are safe to flip the frame upside down for this and future steps.
   </div>
 </div>
 
-Slowly drive the screws into the four holes in the top until you feel resistance.
-
-<p align="center">
-  <img src="assets/10.png" alt="Description" width="600">
-</p>
+- Slowly drive the screws into the four holes in the top until you feel resistance.
 
 <div style="background-color: #ffb3b3; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">🚨</span>
@@ -197,16 +193,19 @@ Slowly drive the screws into the four holes in the top until you feel resistance
   </div>
 </div>
 
-### Step 11: Insert Roller Bearing and Roller Bearing Dowel into Bearing
+<p align="center">
+  <img src="assets/10.png" alt="Description" width="600">
+</p>
 
-- Use the bearing press jib to make 3 bearings
-- Insert the bearing into the orange cylinder part of the bearing press
+### Step 11: Insert Roller Bearing and Bearing Dowel into Bearing Press Jig
+
+- Insert the bearing into the taller half of the bearing press jig.
 
 <p align="center">
   <img src="assets/11.png" alt="Description" width="600">
 </p>
 
-- Insert dowel into black cylinder of the bearing press
+- Insert dowel into the shorter half of the bearing press jig.
 
 <p align="center">
   <img src="assets/11b.png" alt="Description" width="600">
@@ -214,7 +213,7 @@ Slowly drive the screws into the four holes in the top until you feel resistance
 
 ### Step 12: Press the Bearing Jig Together
 
-Press the bearing press jig together.
+- Press the bearing press jig together.
 
 <p align="center">
   <img src="assets/11c.png" alt="Description" width="600">
@@ -248,16 +247,16 @@ Press the bearing press jig together.
   <img src="assets/15.png" alt="Description" width="600">
 </p>
 
-<div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
-  <span style="font-size: 20px; margin-right: 10px;">💡</span>
+<div style="background-color: #ffb3b3; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
+  <span style="font-size: 20px; margin-right: 10px;">🚨</span>
   <div>
-    <strong>Tip:</strong> If the bearings aren't seated all the way, there's a good chance that the ball will become badly scratched.
+    <strong>Warning:</strong> If the bearings aren't seated all the way, there's a good chance that the ball will become badly scratched.
   </div>
 </div>
 
 ### Step 15: Place Friction Pads on Base
 
-- Flip the adept frame upside down
+- Flip the adept frame upside down.
 - Place the friction pads on each corner of the frame
 
 <div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
@@ -274,7 +273,6 @@ Press the bearing press jig together.
 ### Step 16: Insert the ball
 
 - Insert the track ball into the hole in the middle of the adept frame
-- Apply minimal pressure, just enough to make sure that the trackball is clicked in place
 
 <p align="center">
   <img src="assets/18.png" alt="Description" width="600">
@@ -282,11 +280,15 @@ Press the bearing press jig together.
 
 ### Step 17: Peel and stick the logo to the Top
 
-Insert the logo in the indent on the top of the frame.
+- Insert the logo in the indent on the top of the frame.
 
 <p align="center">
   <img src="assets/19.png" alt="Description" width="600">
 </p>
+
+### Step 18: All done!
+
+
 
 ### Step 18: Verify that the Ploopy Adept Trackball is working correctly
 
@@ -309,11 +311,4 @@ Insert the logo in the indent on the top of the frame.
 
 ### Step 19: Spin the ball to break in the bearings
 
-### Step 20: All done!
 
-<div style="background-color: #cce5ff; color: #004085; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
-  <span style="font-size: 20px; margin-right: 10px;">ℹ️</span>
-  <div>
-    <strong>Info:</strong> If there are any issues or if you have any questions check out the FAQ page.
-  </div>
-</div>
