@@ -26,10 +26,6 @@
 - There are up to six possible small tabs along the edge of the PCB as shown in the picture.
 - Holding the PCB as pictured, gently break off any tabs.
 
-<p align="center">
-  <img src="assets/2b.png" alt="Description" width="600">
-</p>
-
 <div style="background-color: #ffb3b3; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">🚨</span>
   <div>
@@ -37,9 +33,14 @@
   </div>
 </div>
 
+<p align="center">
+  <img src="assets/2b.png" alt="Description" width="600">
+</p>
+
 ### Step 3: Prepare parts for PCB soldering
 
-Prepare the following components:
+Prepare the following components as pictured below:
+
 - Printed circuit board
 - PMW-3360 chip
 
