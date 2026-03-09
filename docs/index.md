@@ -228,13 +228,13 @@ There are two small tabs of orange tape covering the sensor's main holes. Remove
 
 ### Step 13: Remove roller bearing from bearing press jig and repeat
 
-- Remove the the roller bearing from the press jig
-- Repeat 3 times to end with 3 roller bearings
+- Remove the the roller bearing from the press jig.
+- Repeat 3 times to end with 3 roller bearings.
 
 ### Step 14: Insert roller bearings into the Top Piece
 
-- Insert the roller bearings into the 3 holes in the top of the frame
-- Ensure the bearings are pressed all the way into the case
+- Insert the roller bearings into the 3 holes in the top of the frame.
+- Ensure the bearings are pressed all the way into the case.
 
 <div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
@@ -257,7 +257,7 @@ There are two small tabs of orange tape covering the sensor's main holes. Remove
 ### Step 15: Place Friction Pads on Base
 
 - Flip the adept frame upside down.
-- Place the friction pads on each corner of the frame
+- Place the friction pads on each corner of the frame.
 
 <div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
@@ -272,7 +272,7 @@ There are two small tabs of orange tape covering the sensor's main holes. Remove
 
 ### Step 16: Insert the ball
 
-- Insert the track ball into the hole in the middle of the adept frame
+- Insert the track ball into the hole in the middle of the adept frame.
 
 <p align="center">
   <img src="assets/18.png" alt="Description" width="600">
@@ -292,7 +292,7 @@ There are two small tabs of orange tape covering the sensor's main holes. Remove
 
 ### Step 18: Verify that the Ploopy Adept Trackball is working correctly
 
-- Plug the adept trackball mouse into the computer
+- Plug the adept trackball mouse into the computer.
 - Move the ball around, it should move the cursor
 
 <div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
