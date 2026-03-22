@@ -4,7 +4,7 @@
   }
 </style>
 
-## Step 1: Prepare necessary tools
+# Step 1: Prepare necessary tools
 
 <p align="center">
   <img src="assets/1.png" alt="Description" width="400">
@@ -28,7 +28,7 @@
 - Holding the PCB as pictured, gently break off any tabs using a pair of pliers.
   
 <p align="center">
-  <img src="assets/2.png" alt="Description" width="800">
+  <img src="assets/2_new.png" alt="Description" width="800">
 </p>
 
 <div style="background-color: #ffb3b3; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
