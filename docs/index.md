@@ -68,7 +68,7 @@ Prepare the following components as pictured below:
 </div>
 
 <p align="center">
-  <img src="assets/4_new.png" alt="Description" width="600">
+  <img src="assets/4_new.png" alt="Description" width="800">
 </p>
 
 <div style="background-color: #ffb3b3; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
@@ -79,7 +79,7 @@ Prepare the following components as pictured below:
 </div>
 
 <p align="center">
-  <img src="assets/4c.png" alt="Description" width="600">
+  <img src="assets/4c_new.png" alt="Description" width="600">
 </p>
 
 ## Step 5: Remove the tab of kapton tape on the PMW-3360 chip
@@ -117,7 +117,7 @@ Prepare the following components as pictured below:
 </div>
 
 <p align="center">
-  <img src="assets/6_new.png" alt="Description" width="600">
+  <img src="assets/6_new.png" alt="Description" width="800">
 </p>
 
 ## Step 7: Place the PCB into the Base
@@ -159,7 +159,7 @@ Prepare the following components as pictured below:
 </div>
 
 <p align="center">
-  <img src="assets/9b.png" alt="Description" width="600">
+  <img src="assets/9b.png" alt="Description" width="500">
 </p>
 
 ## Step 10: Screw the Base into the Top
