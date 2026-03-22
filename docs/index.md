@@ -304,7 +304,7 @@ Prepare the following components as pictured below:
 - Move the ball around, it should move the cursor
 
 ### Check out Post Build FAQ
-- https://staging.help.ploopy.co/?docs=where-can-i-find-mods-for-my-ploopy-device
+- [Post Build FAQ](https://staging.help.ploopy.co/?docs=where-can-i-find-mods-for-my-ploopy-device)
 - Contains various information about things you can do after initial assembly!
 
 <div style="background-color: #cce5ff; color: #004085; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
