@@ -4,7 +4,7 @@
   }
 </style>
 
-# Step 1: Prepare necessary tools
+## Step 1: Prepare necessary tools
 
 <p align="center">
   <img src="assets/1.png" alt="Description" width="400">
@@ -184,7 +184,13 @@ Prepare the following components as pictured below:
   <img src="assets/10.png" alt="Description" width="800">
 </p>
 
-## Step 11: Insert Roller Bearing and Bearing Dowel into Bearing Press Jig
+## Step 11: Prepare Roller Bearing Parts
+
+- 3x Roller Bearing
+- 3x Roller Bearing Dowel
+- Bearing Press Jig (Taller Half + Shorter Half)
+
+## Step 12: Insert Roller Bearing and Bearing Dowel into Bearing Press Jig
 
 - Insert the bearing into the taller half of the bearing press jig.
 
@@ -198,7 +204,7 @@ Prepare the following components as pictured below:
   <img src="assets/11b.png" alt="Description" width="900">
 </p>
 
-## Step 12: Press the Bearing Jig Together
+## Step 13: Press the Bearing Jig Together
 
 - Press the bearing press jig together.
 
@@ -213,12 +219,12 @@ Prepare the following components as pictured below:
   </div>
 </div>
 
-## Step 13: Remove roller bearing from bearing press jig and repeat
+## Step 14: Remove roller bearing from bearing press jig and repeat
 
 - Remove the the roller bearing from the press jig.
 - Repeat 3 times to end with 3 roller bearings.
 
-## Step 14: Insert roller bearings into the Top Piece
+## Step 15: Insert roller bearings into the Top Piece
 
 - Insert the roller bearings into the 3 holes in the top of the frame.
 - Ensure the bearings are pressed all the way into the case.
@@ -241,7 +247,7 @@ Prepare the following components as pictured below:
   </div>
 </div>
 
-## Step 15: Place Friction Pads on Base
+## Step 16: Place Friction Pads on Base
 
 - Flip the adept frame upside down.
 - Place the friction pads on each corner of the frame.
@@ -257,7 +263,7 @@ Prepare the following components as pictured below:
   <img src="assets/16 17.png" alt="Description" width="600">
 </p>
 
-## Step 16: Insert the ball
+## Step 17: Insert the ball
 
 - Insert the track ball into the hole in the middle of the adept frame.
 
@@ -265,7 +271,7 @@ Prepare the following components as pictured below:
   <img src="assets/18.png" alt="Description" width="800">
 </p>
 
-## Step 17: Peel and stick the logo to the Top
+## Step 18: Peel and stick the logo to the Top
 
 - Insert the logo in the indent on the top of the frame.
 
@@ -273,7 +279,7 @@ Prepare the following components as pictured below:
   <img src="assets/19.png" alt="Description" width="800">
 </p>
 
-## Step 18: All done!
+## Step 19: All done!
 
 <p align="center">
   <img src="assets/21.png" alt="Description" width="800">
