@@ -190,6 +190,10 @@ Prepare the following components as pictured below:
 - 3x Roller Bearing Dowel
 - Bearing Press Jig (Taller Half + Shorter Half)
 
+<p align="center">
+  <img src="assets/11_new.png" alt="Description" width="800">
+</p>
+
 ## Step 12: Insert Roller Bearing and Bearing Dowel into Bearing Press Jig
 
 - Insert the bearing into the taller half of the bearing press jig.
@@ -299,10 +303,16 @@ Prepare the following components as pictured below:
 - Plug the adept trackball mouse into the computer using a USB-C cable
 - Move the ball around, it should move the cursor
 
+### Check out Post Build FAQ
+- https://staging.help.ploopy.co/?docs=where-can-i-find-mods-for-my-ploopy-device
+- Contains various information about things you can do after initial assembly!
+
 <div style="background-color: #cce5ff; color: #004085; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">ℹ️</span>
   <div>
-    <strong>Info:</strong> If the trackball is not working, consult our technical flow chart in the FAQ page for futher troubleshooting.
+    <strong>Info:</strong> If the trackball is not working, consult our 
+    <a href="https://staging.help.ploopy.co/?page_id=355" style="color: #004085; font-weight: bold; text-decoration: underline;">troubleshooting guide</a> 
+    for further steps.
   </div>
 </div>
 
