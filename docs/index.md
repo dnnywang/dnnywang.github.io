@@ -71,10 +71,10 @@ Prepare the following components as pictured below:
   <img src="assets/4_new.png" alt="Description" width="600">
 </p>
 
-<div style="background-color: #fcf003; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
-  <span style="font-size: 20px; margin-right: 10px;">💡</span>
+<div style="background-color: #ffb3b3; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
+  <span style="font-size: 20px; margin-right: 10px;">🚨</span>
   <div>
-    <strong>Tip:</strong> The sensor must be flat down as far as it can possibly slide into the holes before soldering.
+    <strong>Warning:</strong> The sensor must be flat down as far as it can possibly slide into the holes before soldering.
   </div>
 </div>
 
@@ -84,7 +84,7 @@ Prepare the following components as pictured below:
 
 ## Step 5: Remove the tab of kapton tape on the PMW-3360 chip
 
-<div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
+<div style="background-color: #fcf003; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
   <div>
     <strong>Tip:</strong> Try to do this step in a dust-free environment.
@@ -97,20 +97,17 @@ Prepare the following components as pictured below:
   <img src="assets/5.png" alt="Description" width="800">
 </p>
 
-<div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
-  <span style="font-size: 20px; margin-right: 10px;">💡</span>
+<div style="background-color: #cce5ff; color: #004085; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
+  <span style="font-size: 20px; margin-right: 10px;">ℹ️</span>
   <div>
-    <strong>Tip:</strong> Check your solder joints during this step to ensure that they are good. To know if they are good, consult the soldering FAQ.
+    <strong>Info:</strong> Check your solder joints during this step to ensure that they are good. To know if they are good, consult the 
+    <a href="https://staging.help.ploopy.co/?docs=ive-soldered-my-kit-together-but-the-parts-i-soldered-dont-work-2" style="color: #004085; font-weight: bold; text-decoration: underline;">soldering FAQ</a>.
   </div>
 </div>
 
 ## Step 6: Attach the PMW-3360 optic to the PMW-3360 chip
 
 - Orient the optic as shown in the image before insertion.
-
-<p align="center">
-  <img src="assets/6.png" alt="Description" width="600">
-</p>
 
 <div style="background-color: #ffb3b3; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">🚨</span>
@@ -120,7 +117,7 @@ Prepare the following components as pictured below:
 </div>
 
 <p align="center">
-  <img src="assets/6b.png" alt="Description" width="600">
+  <img src="assets/6_new.png" alt="Description" width="600">
 </p>
 
 ## Step 7: Place the PCB into the Base
@@ -135,7 +132,7 @@ Prepare the following components as pictured below:
 
 - Place the sensor cap on the PCB as shown in the image.
 
-<div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
+<div style="background-color: #fcf003; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
   <div>
     <strong>Tip:</strong> The Sensor Cap doesn't snap onto the PMW-3360 optic. It "floats" on top of the optic for now. Once fully assembled, the Sensor Cap will be securely held down.
@@ -146,13 +143,6 @@ Prepare the following components as pictured below:
   <img src="assets/8.png" alt="Description" width="800">
 </p>
 
-<div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
-  <span style="font-size: 20px; margin-right: 10px;">💡</span>
-  <div>
-    <strong>Tip:</strong> The position of the Sensor Cap doesn't precisely matter for the moment. Just try to get it roughly centered on the optic.
-  </div>
-</div>
-
 ## Step 9: Place the Top Piece onto the Base Piece
 
 - Place the top onto the base.
@@ -161,7 +151,7 @@ Prepare the following components as pictured below:
   <img src="assets/9.png" alt="Description" width="800">
 </p>
 
-<div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
+<div style="background-color: #fcf003; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
   <div>
     <strong>Tip:</strong> If necessary, adjust the position of the Sensor Cap as you're lowering the Top onto the Base. It should end up looking like the image.
@@ -174,7 +164,7 @@ Prepare the following components as pictured below:
 
 ## Step 10: Screw the Base into the Top
 
-<div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
+<div style="background-color: #fcf003; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
   <div>
     <strong>Tip:</strong> You are safe to flip the frame upside down for this and future steps.
