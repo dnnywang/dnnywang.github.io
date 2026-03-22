@@ -208,21 +208,25 @@ Prepare the following components as pictured below:
 
 - Press the bearing press jig together.
 
+<div style="background-color: #ffb3b3; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
+  <span style="font-size: 20px; margin-right: 10px;">🚨</span>
+  <div>
+    <strong>Warning:</strong> This may require a surprising amount of force; try your best not to bend the roller bearing dowel. If you do, there are spares included in the assembly kit.
+  </div>
+</div>
+
 <p align="center">
   <img src="assets/11c.png" alt="Description" width="900">
 </p>
-
-<div style="background-color: #fcf003; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
-  <span style="font-size: 20px; margin-right: 10px;">💡</span>
-  <div>
-    <strong>Tip:</strong> This may require a surprising amount of force; try your best not to bend the roller bearing dowel. If you do, there are spares included in the assembly kit.
-  </div>
-</div>
 
 ## Step 14: Remove roller bearing from bearing press jig and repeat
 
 - Remove the the roller bearing from the press jig.
 - Repeat 3 times to end with 3 roller bearings.
+
+<p align="center">
+  <img src="assets/14.png" alt="Description" width="800">
+</p>
 
 ## Step 15: Insert roller bearings into the Top Piece
 
