@@ -229,7 +229,7 @@ Prepare the following components as pictured below:
 - Repeat 3 times to end with 3 roller bearings.
 
 <p align="center">
-  <img src="assets/14.png" alt="Description" width="800">
+  <img src="assets/14_new.png" alt="Description" width="800">
 </p>
 
 ## Step 15: Insert roller bearings into the Top Piece
