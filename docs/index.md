@@ -206,7 +206,7 @@ Prepare the following components as pictured below:
   <img src="assets/11c.png" alt="Description" width="900">
 </p>
 
-<div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
+<div style="background-color: #fcf003; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
   <div>
     <strong>Tip:</strong> This may require a surprising amount of force; try your best not to bend the roller bearing dowel. If you do, there are spares included in the assembly kit.
@@ -223,7 +223,7 @@ Prepare the following components as pictured below:
 - Insert the roller bearings into the 3 holes in the top of the frame.
 - Ensure the bearings are pressed all the way into the case.
 
-<div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
+<div style="background-color: #fcf003; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
   <div>
     <strong>Tip:</strong> Needle nose pliers or some similar tool can be used to ensure that the bearing is fully seated.
@@ -246,7 +246,7 @@ Prepare the following components as pictured below:
 - Flip the adept frame upside down.
 - Place the friction pads on each corner of the frame.
 
-<div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
+<div style="background-color: #fcf003; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
   <div>
     <strong>Tip:</strong> Do your best not to cover the screw holes with the friction pads, as this will make opening the case more difficult in the future.
