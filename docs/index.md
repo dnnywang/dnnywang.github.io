@@ -1,6 +1,6 @@
 <style>
   body {
-    font-size: 20px;
+    font-size: 50px;
   }
 </style>
 
@@ -26,7 +26,7 @@
 ## Step 2: Break off possible leftover tabs off the PCB
 - There are up to six possible small tabs along the edge of the PCB as shown in the picture.
 - Holding the PCB as pictured, gently break off any tabs using a pair of pliers.
-- 
+  
 <p align="center">
   <img src="assets/2.png" alt="Description" width="800">
 </p>
