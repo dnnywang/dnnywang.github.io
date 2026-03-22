@@ -16,7 +16,7 @@
 - Optional: tweezers
 - Needle-nose pliers 
 
-<div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
+<div style="background-color: #fcf003; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
   <div>
     <strong>Tip:</strong> A similar smallish Phillips head screwdriver could work.
@@ -26,10 +26,6 @@
 ## Step 2: Break off possible leftover tabs off the PCB
 - There are up to six possible small tabs along the edge of the PCB as shown in the picture.
 - Holding the PCB as pictured, gently break off any tabs using a pair of pliers.
-  
-<p align="center">
-  <img src="assets/2_new.png" alt="Description" width="800">
-</p>
 
 <div style="background-color: #ffb3b3; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">🚨</span>
@@ -37,9 +33,9 @@
     <strong>Warning:</strong> These tabs should come off relatively easily, don’t use excessive force, it probably means you are doing it wrong!
   </div>
 </div>
-
+  
 <p align="center">
-  <img src="assets/2b.png" alt="Description" width="600">
+  <img src="assets/2_new.png" alt="Description" width="800">
 </p>
 
 ## Step 3: Prepare parts for PCB soldering
@@ -49,37 +45,33 @@ Prepare the following components as pictured below:
 - Printed circuit board
 - PMW-3360 chip
 
-<p align="center">
-  <img src="assets/3.png" alt="Description" width="600">
-</p>
-
-<div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
+<div style="background-color: #fcf003; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
   <div>
     <strong>Tip:</strong> The PMW-3360 chip will come in a small piece of foam. Go ahead and remove it now.
   </div>
 </div>
 
+<p align="center">
+  <img src="assets/3.png" alt="Description" width="600">
+</p>
+
 ## Step 4: Solder PMW-3360 sensor to printed circuit board
 
 - Place the sensor onto the circuit board, ensuring the orientation is correct.
 
-<div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
-  <span style="font-size: 20px; margin-right: 10px;">💡</span>
+<div style="background-color: #ffb3b3; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
+  <span style="font-size: 20px; margin-right: 10px;">🚨</span>
   <div>
-    <strong>Tip:</strong> Use the cues presented in the following images to ensure the sensor is oriented correctly.
+    <strong>Warning:</strong> Use the cues presented in the following images to ensure the sensor is oriented correctly.
   </div>
 </div>
 
 <p align="center">
-  <img src="assets/4.png" alt="Description" width="600">
+  <img src="assets/4_new.png" alt="Description" width="600">
 </p>
 
-<p align="center">
-  <img src="assets/4b.png" alt="Description" width="600">
-</p>
-
-<div style="background-color: #fffbe6; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
+<div style="background-color: #fcf003; color: #333; padding: 15px; border-radius: 5px; margin-bottom: 10px; display: flex; align-items: center;">
   <span style="font-size: 20px; margin-right: 10px;">💡</span>
   <div>
     <strong>Tip:</strong> The sensor must be flat down as far as it can possibly slide into the holes before soldering.
